@@ -1,3 +1,5 @@
-#this is a unity photon project made by ROhith R
+#this is a unity photon project made by Rohith R
 
-#this is not completed yet
+#multiplayer is made using PUN2 
+# unity 2020.3 personal
+# 
